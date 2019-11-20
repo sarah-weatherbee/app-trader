@@ -1,3 +1,4 @@
+
 ### App Trader
 
 You have been hired by a new company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store. App Trader will serve as a broker buying apps from developers then deploying and marketing them. 
@@ -29,3 +30,4 @@ Based on research done before launching App Trader as a company, you can assume 
 
 
 ### All analysis work must be done in PostgreSQL
+
